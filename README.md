@@ -2,6 +2,8 @@
 
 Automate social media actions via the browser console.
 
+## Linkedin
+
 ### Accept and Send Message
 
 It's as simple as it sounds... running this script on a profile page which has a pending connection request will:
@@ -11,7 +13,8 @@ It's as simple as it sounds... running this script on a profile page which has a
 
 File: [`/linkedin/acceptMessage.js`](/linkedin/acceptMessage.js)
 
-## <br/>
+<br/>
+Might add more social media platforms/scripts in the future.
 
 ---
 
